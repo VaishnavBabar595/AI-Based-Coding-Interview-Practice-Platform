@@ -1,1 +1,1 @@
-# AI-Based-Coding-Interview-Practice-Platform
+# ai-coding-interview-platform
