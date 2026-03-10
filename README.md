@@ -56,7 +56,7 @@ This project demonstrates concepts of full-stack development, REST APIs, databas
 
 ## 📂 Project Structure
 
-
+```
 ai-coding-interview-platform/
 │
 ├── client/ # React frontend
@@ -65,7 +65,7 @@ ai-coding-interview-platform/
 ├── routes/ # API routes
 └── config/ # Database configuration
 
-
+```
 
 
 ---
@@ -73,38 +73,38 @@ ai-coding-interview-platform/
 ## 💻 How to Run Locally
 
 ### 1️⃣ Clone the repository
-
+```
 bash
 git clone https://github.com/YOUR_USERNAME/ai-coding-interview-platform.git
-
+```
 ### 2️⃣ Navigate to the project folder
-
+```
 cd ai-coding-interview-platform
-
+```
 ### 3️⃣ Run Backend
-
+```
 cd server
 npm install
 node index.js
-
+```
 
 ### Backend runs on:
-
+```
 http://localhost:5000
-
+```
 ### 4️⃣ Run Frontend
-
+```
 Open a new terminal:
 
 cd client
 npm install
 npm run dev
-
+```
 ### Frontend runs on:
-
+```
 http://localhost:5173
 
-
+```
 ---
 
 ## 🎓 Learning Outcomes
