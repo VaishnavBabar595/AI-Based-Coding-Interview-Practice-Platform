@@ -7,7 +7,6 @@
 ![Status](https://img.shields.io/badge/Project-In%20Development-yellow)
 
 ---
-
 ## 🔗 Live Demo
 
 👉 Coming Soon
@@ -70,42 +69,6 @@ ai-coding-interview-platform/
 
 ---
 
-## 💻 How to Run Locally
-
-### 1️⃣ Clone the repository
-```
-bash
-git clone https://github.com/YOUR_USERNAME/ai-coding-interview-platform.git
-```
-### 2️⃣ Navigate to the project folder
-```
-cd ai-coding-interview-platform
-```
-### 3️⃣ Run Backend
-```
-cd server
-npm install
-node index.js
-```
-
-### Backend runs on:
-```
-http://localhost:5000
-```
-### 4️⃣ Run Frontend
-```
-Open a new terminal:
-
-cd client
-npm install
-npm run dev
-```
-### Frontend runs on:
-```
-http://localhost:5173
-
-```
----
 
 ## 🎓 Learning Outcomes
 
